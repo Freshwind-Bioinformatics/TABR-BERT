@@ -1,0 +1,6 @@
+mhcnames==0.4.8
+numpy==1.21.5
+pandas==1.2.0
+scikit_learn==1.1.3
+scipy==1.8.0
+torch==1.11.0
