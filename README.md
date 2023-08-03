@@ -9,11 +9,11 @@ The Installation of Docker can be seen in https://docs.docker.com/
 
 Pull the image of TABR-BERT from dockerhub:
 
->docker pull freshwindbioinformatics/tabr-bert:v0
+>docker pull freshwindbioinformatics/tabr-bert:v1
 
 Run the image in bash:
 
->docker run -it --gpus all freshwindbioinformatics/tabr-bert:v0 bash
+>docker run -it --gpus all freshwindbioinformatics/tabr-bert:v1 bash
 #### * Note : The parameter "--gpus" requires docker version higher than 19.03.
 #
 ### 2. Conda and pip
