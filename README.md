@@ -43,7 +43,7 @@ Command:
 
 ## Data
 
-You can find the data used to train TCR-BERT, pMHC-BERT and healthy TCR dataset at https://zenodo.org/record/8210047  
+You can find the data used to train TCR-BERT, pMHC-BERT and healthy TCR dataset at https://zenodo.org/record/8210445  
 
 ## Usage
 
