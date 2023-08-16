@@ -1,7 +1,11 @@
 
 # TABR-BERT
 
-## install
+## Introduction
+TABR-BERT: an Accurate and Robust BERT-based Transfer Learning Model for TCR-pMHC Interaction Prediction
+Contract: hui.yao@freshwindbiotech.com
+
+## Installation
 There are two ways to run TABR-BERT
 
 ### 1. Docker（recommend）
