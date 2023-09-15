@@ -109,9 +109,10 @@ def make_data(alleles, peptides, labels):
         for pos in cand_maked_pos[:n_pred]:
             masked_pos.append(pos)
             masked_tokens.append(input_ids[pos])
-            if random() < 0.8:  # 80%
+            P = random.random()
+            if P < 0.8:  # 80%
                 input_ids[pos] = 21 # make mask
-            elif random() > 0.9:  # 10%
+            elif P > 0.9:  # 10%
                 index = random.randint(0, 20) # random index in vocabulary
                 input_ids[pos] = index # replace
 
