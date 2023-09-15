@@ -87,7 +87,7 @@ def make_data(cdr3s):
         for pos in cand_maked_pos[:n_pred]:
             masked_pos.append(pos)
             masked_tokens.append(input_ids[pos])
-            P = random()
+            P = random.random()
             if P < 0.8:  # 80%
                 input_ids[pos] = 21 # make mask
             elif P > 0.9:  # 10%
