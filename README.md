@@ -162,3 +162,7 @@ Optional:
 #### *Note : If you use docker, then you can predict directly with the following command:  
 
 >python predict_tcr_pmhc_binding.py --input **input_data.csv**
+
+## Citation
+
+You can find the original paper in: https://academic.oup.com/bib/article/25/1/bbad436/7457349
