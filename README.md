@@ -2,7 +2,8 @@
 # TABR-BERT
 
 ## Introduction
-TABR-BERT: an Accurate and Robust BERT-based Transfer Learning Model for TCR-pMHC Interaction Prediction
+TABR-BERT: an Accurate and Robust BERT-based Transfer Learning Model for TCR-pMHC Interaction Prediction  
+Publication: https://doi.org/10.1093/bib/bbad436  
 Contract: hui.yao@freshwindbiotech.com
 
 ## Installation
@@ -165,4 +166,4 @@ Optional:
 
 ## Citation
 
-You can find the original paper at: https://academic.oup.com/bib/article/25/1/bbad436/7457349
+Jiawei Zhang, Wang Ma, Hui Yao, "Accurate TCR-pMHC interaction prediction using a BERT-based transfer learning method", Briefings in Bioinformatics, Volume 25, Issue 1, January 2024, bbad436, https://doi.org/10.1093/bib/bbad436
